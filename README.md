@@ -153,11 +153,13 @@ Designed with emphasis on clean architecture, modularity, scalability and mainta
 
 **Mar 2026 – May 2026**
 
-- Built Eventara
-- Developed REST APIs
-- Implemented JWT Authentication
-- PostgreSQL Integration
-- Next.js Frontend
+• Built and shipped Eventara's backend using Spring Boot
+
+• Designed secure authentication with JWT and BCrypt
+
+• Developed REST APIs consumed by a Next.js frontend
+
+• Optimized PostgreSQL queries and database structure
 
 **Skills**
 
@@ -167,34 +169,16 @@ Designed with emphasis on clean architecture, modularity, scalability and mainta
 
 # Achievements
 
-|Recognition|Details|
-|---|---|
-|CGPA|9.6|
-|LeetCode|220+ Problems|
-|Hackathons|3|
-|Protocol Club|Senior Tech Core|
+🏆 250+ LeetCode Problems
+
+🥈 Top 30% Contest Rating
+
+🎯 Senior Tech Core — Protocol Club
+
+🚀 Built multiple production-grade AI + Full Stack projects
 
 ---
 
-# Certifications
-
-### AWS
-
-Coming Soon
-
-### Oracle
-
-Coming Soon
-
-### Cisco
-
-Coming Soon
-
-### NPTEL
-
-Coming Soon
-
----
 
 # Coding Profiles
 
