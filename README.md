@@ -10,8 +10,8 @@
 ![BMSCE Badge](https://img.shields.io/badge/BMSCE-Computer%20Science-blue?style=for-the-badge&logo=google-scholar)
 ![Location](https://img.shields.io/badge/Bengaluru-India-brightgreen?style=for-the-badge&logo=google-maps)
 
-[![](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://vishnu-portfolio.vercel.app/)
-[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vishnu-mashalkar-062006)
+[![](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://vishnu-portfolio-eosin.vercel.app)
+[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vishnumashalkar)
 [![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:vishnumashalkar@gmail.com)
 [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/vishnu062006)
 
