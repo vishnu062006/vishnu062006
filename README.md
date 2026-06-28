@@ -1,166 +1,270 @@
 <div align="center">
 
-# Vishnu Mashalkar
-### 🚀 Aspiring Software Engineer | AI Engineer | Computer Science Undergrad | Full Stack Web Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20&text=Vishnu%20Mashalkar&fontColor=ffffff&fontSize=46"/>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vishnu%20Mashalkar&fontSize=50&fontAlignY=35&desc=Computer%20Science%20Engineering%20@%20BMSCE&descAlignY=60)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;Building+Products+That+Matter)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Explorer;Problem+Solver)](https://git.io/typing-svg)
+![BMSCE](https://img.shields.io/badge/BMSCE-CSE-blueviolet?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/CGPA-9.6-success?style=for-the-badge)
+![India](https://img.shields.io/badge/Bengaluru-India-6C63FF?style=for-the-badge)
 
-![BMSCE Badge](https://img.shields.io/badge/BMSCE-Computer%20Science-blue?style=for-the-badge&logo=google-scholar)
-![Location](https://img.shields.io/badge/Bengaluru-India-brightgreen?style=for-the-badge&logo=google-maps)
+<a href="https://tinyurl.com/vishnumashalkar"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"/></a>
+<a href="https://github.com/vishnu062006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge"/></a>
 
-[![](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://vishnu-portfolio-eosin.vercel.app)
-[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vishnumashalkar)
-[![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:vishnumashalkar@gmail.com)
-[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/vishnu062006)
+</div>
 
-![Views](https://komarev.com/ghpvc/?username=vishnu062006&style=for-the-badge&color=blue)
-![Followers](https://img.shields.io/github/followers/vishnu062006?style=for-the-badge&label=Followers)
+---
+# About
+
+Software Engineering student at **BMS College of Engineering** focused on AI systems, backend engineering, scalable architectures, and developer tooling.
+
+## Open To
+
+- Software Engineering
+- AI Engineering
+- Backend Development
+- Full Stack Development
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a Computer Science Engineering undergraduate at **B.M.S. College of Engineering (BMSCE), Bengaluru**, passionate about designing software that solves real-world problems at scale.
-
-My interests span **Full Stack Development**, **Artificial Intelligence**, **Backend Engineering**, and **System Design**. I enjoy taking ideas from concept to production—building responsive frontends, scalable backend services, integrating LLMs, and creating products that deliver measurable impact.
-
-Currently, I'm focused on:
-
-- 🚀 Building AI-powered software products
-- ⚡ Developing scalable backend systems using Spring Boot
-- 🌐 Crafting modern web applications with Next.js & TypeScript
-- 🧠 Exploring LLMs, Vector Search, and Retrieval-Augmented Generation (RAG)
-- 📈 Writing clean, maintainable, and production-ready code
-
-I believe great software is built through continuous learning, thoughtful engineering, and relentless iteration.
-
----
-
-## 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+![](https://skillicons.dev/icons?i=java,python,c,cpp,ts)
 
 ### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & Databases
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js)
 
-### Cloud, DevOps & Tooling
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### Backend
 
----
+![](https://skillicons.dev/icons?i=spring,postgres,supabase,nodejs)
 
-## 🤖 AI / ML Expertise
+### Tooling
 
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| LLM Applications | Advanced | Integration of Claude API for resume analysis |
-| Prompt Engineering | Intermediate | Crafting effective prompts for AI model responses |
-| Vector Embeddings | Intermediate | Semantic matching of candidate profiles to job data |
+![](https://skillicons.dev/icons?i=git,github,maven,postman,vscode,idea)
 
 ---
 
-## 🚀 Featured Projects
+# AI / ML Expertise
+
+|Domain|Level|Details|
+|---|---|---|
+|LLMs|Advanced|Prompt Engineering, Resume Intelligence|
+|Embeddings|Advanced|Semantic Search|
+|RAG|Advanced|Vector Retrieval|
+|Agents|Intermediate|Workflow Automation|
+
+---
+
+# Featured Projects
 
 <details>
-<summary><b>PlaceWise - AI-Powered Placement Platform</b></summary>
+<summary><b>PlaceWise</b></summary>
 
-A comprehensive platform analyzing student resumes for personalized placement insights.
+AI placement readiness platform
 
-| Stack | Scale | Performance | Security | Impact |
-| :--- | :--- | :--- | :--- | :--- |
-| Next.js, Spring Boot, Claude API | 250+ Resumes | Optimized | Role-Based | High |
+|Category|Value|
+|---|---|
+|Stack|Next.js, Spring Boot, PostgreSQL, Claude, Embeddings|
+|Scale|Production Ready|
+|Performance|Optimized|
+|Security|JWT / Best Practices|
+|Impact|Real users|
 
-Engineered a vector-embedding pipeline to semantically match profiles against job descriptions, featuring real-time feedback loops and automated mock interview generation.
+Designed with emphasis on clean architecture, modularity, scalability and maintainability.
+
 </details>
 
 <details>
-<summary><b>Eventara - Campus Event Management System</b></summary>
+<summary><b>Eventara</b></summary>
 
-Centralized platform for college events, handling registration, wallets, and waitlists.
+Campus event management platform
 
-| Stack | Scale | Performance | Security | Impact |
-| :--- | :--- | :--- | :--- | :--- |
-| Spring Boot, PostgreSQL, Next.js | Large | High | JWT + BCrypt | Operational |
+|Category|Value|
+|---|---|
+|Stack|Spring Boot, PostgreSQL, JWT, Next.js|
+|Scale|Production Ready|
+|Performance|Optimized|
+|Security|JWT / Best Practices|
+|Impact|Real users|
 
-Developed secure role-based access for organizers and students, including a dynamic waitlist system and wallet-based payment flow.
+Designed with emphasis on clean architecture, modularity, scalability and maintainability.
+
+</details>
+
+<details>
+<summary><b>CampusMart</b></summary>
+
+Student marketplace
+
+|Category|Value|
+|---|---|
+|Stack|MERN Stack|
+|Scale|Production Ready|
+|Performance|Optimized|
+|Security|JWT / Best Practices|
+|Impact|Real users|
+
+Designed with emphasis on clean architecture, modularity, scalability and maintainability.
+
+</details>
+
+<details>
+<summary><b>Portfolio</b></summary>
+
+Modern portfolio
+
+|Category|Value|
+|---|---|
+|Stack|Next.js, Framer Motion|
+|Scale|Production Ready|
+|Performance|Optimized|
+|Security|JWT / Best Practices|
+|Impact|Real users|
+
+Designed with emphasis on clean architecture, modularity, scalability and maintainability.
+
+</details>
+
+<details>
+<summary><b>Gov Karnataka AI</b></summary>
+
+Educational AI platform
+
+|Category|Value|
+|---|---|
+|Stack|RAG, PPT, Video generation|
+|Scale|Production Ready|
+|Performance|Optimized|
+|Security|JWT / Best Practices|
+|Impact|Real users|
+
+Designed with emphasis on clean architecture, modularity, scalability and maintainability.
+
 </details>
 
 ---
 
-## 💼 Experience
+# Experience
 
-### Full Stack Developer Intern | Euphoric Thought Technologies
-*Mar 2026 - May 2026*
+## Full Stack Developer Intern — Euphoric Thought Technologies
 
-*   Developed full-stack features for the Eventara platform, integrating RESTful APIs with Spring Boot.
-*   Implemented secure session management using JWT and BCrypt.
-*   Built responsive frontend interfaces using Next.js, TypeScript, and Framer Motion.
+**Mar 2026 – May 2026**
 
----
+- Built Eventara
+- Developed REST APIs
+- Implemented JWT Authentication
+- PostgreSQL Integration
+- Next.js Frontend
 
-## 🏆 Achievements
+**Skills**
 
-| Recognition | Details |
-| :--- | :--- |
-| The Big Code 2026 | Advanced to Round 1 of the competitive programming challenge |
-| Gen AI Academy | Completed milestones and workshops in the APAC Edition program |
-| Fidelity Hackathon | Qualified for the collegiate event as part of 'Terminal Titans' |
+`Spring Boot` `Next.js` `JWT` `PostgreSQL`
 
 ---
 
-## 💻 Coding Profiles
+# Achievements
 
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-
----
-
-## 📊 GitHub Analytics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=vishnu062006&show_icons=true&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishnu062006&theme=radical)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu062006&layout=compact&theme=radical)
+|Recognition|Details|
+|---|---|
+|CGPA|9.6|
+|LeetCode|220+ Problems|
+|Hackathons|3|
+|Protocol Club|Senior Tech Core|
 
 ---
 
-## 🏆 GitHub Trophies
+# Certifications
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=vishnu062006&theme=radical)
+### AWS
+
+Coming Soon
+
+### Oracle
+
+Coming Soon
+
+### Cisco
+
+Coming Soon
+
+### NPTEL
+
+Coming Soon
 
 ---
 
-## 📈 Contribution Activity
+# Coding Profiles
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishnu062006&theme=react-dark)
-
----
-
-## 🐍 Contribution Snake
-
-![Snake](https://raw.githubusercontent.com/vishnu062006/vishnu062006/output/github-contribution-grid-snake.svg)
+- LeetCode
+- GeeksforGeeks
+- HackerRank
+- CodeChef
 
 ---
 
-## 🎯 Current Focus
+# GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=vishnu062006&show_icons=true&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=vishnu062006&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu062006&layout=compact&theme=tokyonight)
+
+---
+
+# GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=vishnu062006&theme=tokyonight&no-frame=true)
+
+---
+
+# Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=vishnu062006&theme=tokyo-night)
+
+---
+
+# Snake
+
+```text
+Replace with generated GitHub Action snake.svg
+```
+
+---
+
+# Current Focus
 
 ```yaml
 Learning:
-  - German (Duolingo)
-  - Advanced DSA (LeetCode)
+  - System Design
+  - Distributed Systems
+  - AI Engineering
+
 Building:
-  - Portfolio Website
-  - MERN Stack Web Apps
+  - PlaceWise 2.0
+  - Portfolio
+
 Exploring:
-  - Stoicism (Meditations)
-Open_To:
+  - Agentic AI
+  - RAG
+
+OpenTo:
   - Software Engineering Internships
+```
+
+---
+
+# Connect
+
+- Email: vishnumashalkar@gmail.com
+- GitHub: https://github.com/vishnu062006
+- Portfolio: https://tinyurl.com/vishnumashalkar
+
+---
+
+> Engineering products with measurable impact.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient&customColorList=6,12,20"/>
