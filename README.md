@@ -1,7 +1,7 @@
 <div align="center">
 
 # Vishnu Mashalkar
-### 🚀 Aspiring Software Engineer | MERN & Java Enthusiast | Computer Science Undergrad
+### 🚀 Aspiring Software Engineer | AI Engineer | Computer Science Undergrad | Full Stack Web Developer
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vishnu%20Mashalkar&fontSize=50&fontAlignY=35&desc=Computer%20Science%20Engineering%20@%20BMSCE&descAlignY=60)
 
@@ -22,7 +22,19 @@
 
 ## 👨‍💻 About Me
 
-I am a second-year Computer Science Engineering student at B.M.S. College of Engineering, passionate about building scalable software solutions. My journey is defined by a deep interest in Full Stack Development (MERN/Spring Boot), AI/ML integration, and algorithmic problem-solving. With a strong engineering foundation and a product-focused mindset, I thrive on tackling complex technical challenges and automating workflows.
+I'm a Computer Science Engineering undergraduate at **B.M.S. College of Engineering (BMSCE), Bengaluru**, passionate about designing software that solves real-world problems at scale.
+
+My interests span **Full Stack Development**, **Artificial Intelligence**, **Backend Engineering**, and **System Design**. I enjoy taking ideas from concept to production—building responsive frontends, scalable backend services, integrating LLMs, and creating products that deliver measurable impact.
+
+Currently, I'm focused on:
+
+- 🚀 Building AI-powered software products
+- ⚡ Developing scalable backend systems using Spring Boot
+- 🌐 Crafting modern web applications with Next.js & TypeScript
+- 🧠 Exploring LLMs, Vector Search, and Retrieval-Augmented Generation (RAG)
+- 📈 Writing clean, maintainable, and production-ready code
+
+I believe great software is built through continuous learning, thoughtful engineering, and relentless iteration.
 
 ---
 
@@ -67,7 +79,7 @@ A comprehensive platform analyzing student resumes for personalized placement in
 
 | Stack | Scale | Performance | Security | Impact |
 | :--- | :--- | :--- | :--- | :--- |
-| Next.js, Spring Boot, Claude API | 50+ Resumes | Optimized | Role-Based | High |
+| Next.js, Spring Boot, Claude API | 250+ Resumes | Optimized | Role-Based | High |
 
 Engineered a vector-embedding pipeline to semantically match profiles against job descriptions, featuring real-time feedback loops and automated mock interview generation.
 </details>
